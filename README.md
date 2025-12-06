@@ -15,7 +15,7 @@ step by step using the `server.js` file.
 ---
 
 ## 📂 Step 2: Project Setup
-1. Create a new folder for your project, e.g. `myserver`.
+1. Create a new folder for your project, e.g. `mysimplesite`.
 2. Inside it, create:
    - `server.js` → paste the code you shared.
    - `index.html` → a simple homepage (e.g. `<h1>Hello Node.js Server</h1>`).
